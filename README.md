@@ -1,5 +1,5 @@
-# Cadeia-de-Markov-IMPA
-Curso C_Markov
+# Cadeia-de-Markov
+Curso C_Markov do IMPA
 # Markov-Chains-IMPA-Course
 
 This repository contains study materials, lecture notes, and solved exercises from the "C_Markov" course at IMPA, focused on Markov Chains and stochastic processes.
