@@ -6,7 +6,7 @@ This repository contains study materials, code examples, and explorations of Mar
 
 ## Contents 
 
-- [Introduction to Markov Chains](#introduction-to-Markov-Chains-and-their-properties)
+- [Introduction to Markov Chains](#introduction-to-Markov-Chains-and-their-properties) 
 - [Transition Matrices](#transition-matrices)
 - [Classification of States](#classification-of-states)
 - [Steady-State Behavior](#steady-state-behavior)
