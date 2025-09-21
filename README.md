@@ -50,3 +50,8 @@ The study is divided into two parts:
 - [IMPA Official Website](https://impa.br/)
 - Additional materials are cited within the repository.
 
+## Inspiration.
+> **"Nas transições do acaso, as cadeias de Markov tecem o futuro quântico, @CadeiaDeMarkov onde o caos estocástico encontra a dança das probabilidades!"** 🎲
+>  Copyright © 2025 Prof. Ana Isabel C. 💙
+---
+
