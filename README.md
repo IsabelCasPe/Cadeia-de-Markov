@@ -51,7 +51,7 @@ The study is divided into two parts:
 - Additional materials are cited within the repository.
 
 ## Inspiration.
-> **"Nas transições do acaso, as cadeias de Markov tecem o futuro quântico, @CadeiaDeMarkov onde o caos estocástico encontra a dança das probabilidades!"** 🎲
+> **"In the transitions of chance, Markov chains weave the quantum future — @CadeiaDeMarkov where stochastic chaos meets the dance of probabilities!"** 🎲
 >  Copyright © 2025 Prof. Ana Isabel C. 💙
 ---
 
