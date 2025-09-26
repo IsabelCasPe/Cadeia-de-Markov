@@ -10,7 +10,7 @@
 
 ---
 ## Markov-Chains-Study
-*(Alias: Cadeias-de-Markov)*  
+*(Alias: Cadeias-de-Markov)*    
 A Personal Exploration of Markov Chains  
 
 This repository contains study materials, code examples, and explorations of Markov Chains and stochastic processes, inspired by *Markov Chains and Mixing Times* by Levin, Peres, and Wilmer (2009) and other sources. The goal is to deepen understanding of advanced topics and their applications in modern research.
