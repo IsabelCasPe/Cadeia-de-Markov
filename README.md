@@ -72,3 +72,20 @@ This repository or portions thereof may not be reused, redistributed, or forked 
 ## © 2025 Ana Isabel Castillo Pereda — Todos os direitos reservados.
 Este repositório ou partes dele não podem ser reutilizados, redistribuídos ou bifurcados sem a permissão explícita da autora. Para solicitações de reutilização, entre em contato com: anacp20@gmail.com
 ---
+
+
+mkdir -p gifs/wm_out
+for f in gifs/*.gif; do
+  base=$(basename "$f" .gif)
+  ffmpeg -i "$f" -i watermark.png \
+    -filter_complex "overlay=main_w-overlay_w-10:main_h-overlay_h-10" \
+    -c:v libvpx-vp9 -b:v 0 -crf 30 -y "gifs/wm_out/${base}.webm"
+done
+
+
+mkdir -p gifs/wm_out
+for f in gifs/*.gif; do
+  base=$(basename "$f" .gif)
+  magick "$f" -coalesce -gravity southeast -fill "rgba(255,255,255,0.5)" \
+    -pointsize 20 -annotate +10+10 "© IsabelCasPe" -layers Optimize "gifs/wm_out/${base}_wm.gif"
+done
