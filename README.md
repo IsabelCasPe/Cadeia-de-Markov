@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-gold)
 ![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4) 
 
-**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia) 
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação-installation-instalación) · [Licença MIT](#licença-license-licencia) 
 
 ---
 ## Markov-Chains-Study
@@ -64,11 +64,11 @@ The study is divided into two parts:
 - Additional materials are cited within the repository.
 
 ## Inspiration.
-> **"In the transitions of chance, Markov chains weave the quantum future — @CadeiaDeMarkov where stochastic chaos meets the dance of probabilities!"** 🎲
+> **"In the transitions of chance, Markov chains weave the quantum future - @CadeiaDeMarkov where stochastic chaos meets the dance of probabilities!"** 🎲
 >  Copyright © 2025 Prof. Ana Isabel C. 💙
 
 ---
-## © 2025 Ana Isabel Castillo Pereda — All rights reserved.
+## © 2025 Ana Isabel Castillo Pereda - All rights reserved.
 This repository or portions thereof may not be reused, redistributed, or forked without explicit permission from the author. For reuse requests, contact: anacp20@gmail.com
 ---
 ## © 2025 Ana Isabel Castillo Pereda — Todos os direitos reservados.
