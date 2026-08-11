@@ -71,7 +71,7 @@ The study is divided into two parts:
 ## © 2025 Ana Isabel Castillo Pereda - All rights reserved.
 This repository or portions thereof may not be reused, redistributed, or forked without explicit permission from the author. For reuse requests, contact: anacp20@gmail.com
 ---
-## © 2025 Ana Isabel Castillo Pereda — Todos os direitos reservados.
+## © 2025 Ana Isabel Castillo Pereda - Todos os direitos reservados.
 Este repositório ou partes dele não podem ser reutilizados, redistribuídos ou bifurcados sem a permissão explícita da autora. Para solicitações de reutilização, entre em contato com: anacp20@gmail.com
 ---
 
