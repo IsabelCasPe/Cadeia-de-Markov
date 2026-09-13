@@ -11,6 +11,11 @@
 **PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação-installation-instalación) · [Licença MIT](#licença-license-licencia) 
 
 ---
+
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel__maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabel_maths/)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-IsabelCasPe_Maths_∞-C0C0C0?logo=youtube&logoColor=black)](https://www.youtube.com/@isabelcastillo4230)
+
+---
 ## Markov-Chains-Study
 *(Alias: Cadeias-de-Markov)*    
 A Personal Exploration of Markov Chains        
